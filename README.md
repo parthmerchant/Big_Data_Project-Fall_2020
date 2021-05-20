@@ -2,6 +2,8 @@
 ### Big Data Project - Fall 2020 NYU Tandon School of Engineering
 Parth Merchant, Fahim Khan, Nathalie Darvas
 
+Read project report in ```docs/```
+
 -------------------------------------------------------------------------------------------
 ### Dependencies
 1. Jupyter Notebook: Python3, NumPy, Pandas, Matplotlib, Seaborn, Spark
